@@ -9,7 +9,7 @@ on:
 
 env:
   REGISTRY: quay.io
-  IMAGE_NAME: prometheusmsteams/prometheus-msteams
+  IMAGE_NAME: schmiddim/prometheus-msteams
   
 jobs:
   build:
