@@ -11,7 +11,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/go-kit/kit/log"
+	"github.com/go-kit/log"
 	"github.com/prometheus-msteams/prometheus-msteams/pkg/card"
 	"github.com/prometheus-msteams/prometheus-msteams/pkg/service"
 	"github.com/prometheus-msteams/prometheus-msteams/pkg/testutils"

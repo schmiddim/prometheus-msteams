@@ -33,6 +33,8 @@ linters:
     - varcheck
     - whitespace
 issues:
+  exclude:
+    - Error return value of .*Log\` is not checked
   exclude-rules:
     - linters:
        - revive

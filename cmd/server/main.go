@@ -33,8 +33,8 @@ import (
 
 	_ "net/http/pprof" //nolint: gosec
 
-	"github.com/go-kit/kit/log"
-	"github.com/go-kit/kit/log/level"
+	"github.com/go-kit/log"
+	"github.com/go-kit/log/level"
 	"github.com/oklog/run"
 	"github.com/peterbourgon/ff"
 	"gopkg.in/yaml.v2"
